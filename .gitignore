@@ -1,0 +1,10 @@
+venv/
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
